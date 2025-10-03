@@ -2,7 +2,7 @@
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Aymen Bnebouhia</h1>
-<h3 align="center">A passionate Full Stack developer from Morocco**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp</h3>
+<h3 align="center">A passionate Full Stack developer from Morocco</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymnben&label=Profile%20views&color=0e75b6&style=flat" alt="aymnben" /> </p>
 
 - 💬 Ask me about **anything about full stack**
