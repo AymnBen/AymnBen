@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aymen Bnebouhia</h1>
+<h1 align="center">Hi 👋, I'm Aymen Benbouhia</h1>
 <h3 align="center">A passionate Full Stack developer from Morocco</h3>
 
 - 💬 Ask me about **anything about full stack**
